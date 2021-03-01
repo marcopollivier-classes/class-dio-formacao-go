@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+manipulacao-erros/.idea/modules.xml
+manipulacao-erros/.idea/.gitignore
+manipulacao-erros/.idea/manipulacao-erros.iml
+manipulacao-erros/.idea/vcs.xml
